@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# IDEs
+.vscode/
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Others you probably don't want in git
+*.cache
+*.tmp
+*.log
+*.db
+*.sqlite
+*.sqlite3
+[Tt]est[Rr]esult*/
