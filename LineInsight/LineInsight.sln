@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineInsight", "LineInsight\LineInsight.csproj", "{C5CEB9BB-E136-49EC-AC96-CD54BF4DE4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineInsight.Domain", "LineInsight.Domain\LineInsight.Domain.csproj", "{CEA56460-D4E5-4848-8328-387D9958E19A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C5CEB9BB-E136-49EC-AC96-CD54BF4DE4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5CEB9BB-E136-49EC-AC96-CD54BF4DE4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5CEB9BB-E136-49EC-AC96-CD54BF4DE4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA56460-D4E5-4848-8328-387D9958E19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA56460-D4E5-4848-8328-387D9958E19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA56460-D4E5-4848-8328-387D9958E19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA56460-D4E5-4848-8328-387D9958E19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

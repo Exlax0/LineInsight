@@ -1,0 +1,9 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LineInsight.Domain.Enums;
+public enum TagType { Bool, Int, DInt, Real, LReal, String }
+
