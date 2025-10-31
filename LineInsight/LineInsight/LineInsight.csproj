@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LineInsight.Domain\LineInsight.Domain.csproj" />
+    <ProjectReference Include="..\LineInsight.Infrastructure\LineInsight.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
