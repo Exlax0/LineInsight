@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineInsight.Domain", "LineI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineInsight.Infrastructure", "LineInsight.Infrastructure\LineInsight.Infrastructure.csproj", "{5A12189B-B61A-42F9-ABA7-257D9284B4AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineInsight.Collector", "LineInsight.Collector\LineInsight.Collector.csproj", "{2C064740-6471-4CF8-A23A-EFD033C19D8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5A12189B-B61A-42F9-ABA7-257D9284B4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A12189B-B61A-42F9-ABA7-257D9284B4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A12189B-B61A-42F9-ABA7-257D9284B4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C064740-6471-4CF8-A23A-EFD033C19D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C064740-6471-4CF8-A23A-EFD033C19D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C064740-6471-4CF8-A23A-EFD033C19D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C064740-6471-4CF8-A23A-EFD033C19D8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
